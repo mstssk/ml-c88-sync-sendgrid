@@ -1,0 +1,10 @@
+{
+  "name": "ml-c88-sync-sendgrid",
+  "version": "0.0.1",
+  "description": "",
+  "author": "mstssk",
+  "license": "",
+  "devDependencies": {
+    "typescript": "1.5.3"
+  }
+}

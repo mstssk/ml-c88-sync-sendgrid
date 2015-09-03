@@ -1,0 +1,9 @@
+# for npm
+npm-debug.log
+node_modules/
+
+built/
+typings/
+lib/*.js
+lib/*.js.map
+lib/*.d.ts
